@@ -8,32 +8,32 @@
 !Lab6/
 
 Lab1/
-!*.cpp
-!*.c
-!*.txt
+!Lab1/*.cpp
+!Lab1/*.c
+!Lab1/*.txt
 
 Lab2/
-!*.cpp
-!*.c
-!*.txt
+!Lab2/*.cpp
+!Lab2/*.c
+!Lab2/*.txt
 
 Lab3/
-!*.cpp
-!*.c
-!*.txt
+!Lab3/*.cpp
+!Lab3/*.c
+!Lab3/*.txt
 
 Lab4/
-!*.cpp
-!*.c
-!*.txt
+!Lab4/*.cpp
+!Lab4/*.c
+!Lab4/*.txt
 
 Lab5/
-!*.cpp
-!*.c
-!*.txt
+!Lab5/*.cpp
+!Lab5/*.c
+!Lab5/*.txt
 
 Lab6/
-!*.cpp
-!*.c
-!*.txt
+!Lab6/*.cpp
+!Lab6/*.c
+!Lab6/*.txt
 
