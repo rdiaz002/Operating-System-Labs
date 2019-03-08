@@ -1,0 +1,11 @@
+#include<iostream>
+
+
+int main(){
+
+
+float megalol = 3.75
+
+std::cout<<"Lol"<< megalol<<std::endl;
+return 0;
+}
