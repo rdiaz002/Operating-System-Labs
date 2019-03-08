@@ -7,32 +7,32 @@
 !lab5/
 !lab6/
 
-lab1/*
+lab1/
 !*.cpp
 !*.c
 !*.txt
 
-lab2/*
+lab2/
 !*.cpp
 !*.c
 !*.txt
 
-lab3/*
+lab3/
 !*.cpp
 !*.c
 !*.txt
 
-lab4/*
+lab4/
 !*.cpp
 !*.c
 !*.txt
 
-lab5/*
+lab5/
 !*.cpp
 !*.c
 !*.txt
 
-lab6/*
+lab6/
 !*.cpp
 !*.c
 !*.txt
