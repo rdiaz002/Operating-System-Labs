@@ -1,25 +1,39 @@
+/*
+!.gitignore
+!lab1/
+!lab2/
+!lab3/
+!lab4/
+!lab5/
+!lab6/
+
+lab1/*
 !*.cpp
 !*.c
 !*.txt
 
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+lab2/*
+!*.cpp
+!*.c
+!*.txt
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+lab3/*
+!*.cpp
+!*.c
+!*.txt
+
+lab4/*
+!*.cpp
+!*.c
+!*.txt
+
+lab5/*
+!*.cpp
+!*.c
+!*.txt
+
+lab6/*
+!*.cpp
+!*.c
+!*.txt
+
